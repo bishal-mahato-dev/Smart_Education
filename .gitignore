@@ -18,7 +18,4 @@ yarn-error.log*
 .cache
 # node -e "require('bcrypt').hash('Owner@123', 10).then(console.log)"
 
-node_modules/
-.env
-dist/
-build/
+
